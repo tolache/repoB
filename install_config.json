@@ -1,0 +1,12 @@
+{
+	"client":
+	{
+		"name": "John Doe",
+		"email": "jon.doe@gmail.com",
+		"purchases":
+		{
+			"product1": "2",
+			"product2": "10",
+		}
+	}
+}
